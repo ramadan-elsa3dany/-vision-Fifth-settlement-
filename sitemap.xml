@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://vision-fifth-settlement.pages.dev/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://vision-fifth-settlement.pages.dev/</loc>
+</url>
+<url>
+<loc>https://vision-fifth-settlement.pages.dev/hyde-park-5th-settlement.html</loc>
+<lastmod>2023-10-02T14:57:43+02:00</lastmod>
+<image:image>
+<image:loc>https://vision-fifth-settlement.pages.dev/media/posts/2/exterior-hyde-park-standalone-villas-new-cairojpeg-1200x900-2-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://vision-fifth-settlement.pages.dev/media/posts/2/Villa-for-sale-in-hyde-park-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://vision-fifth-settlement.pages.dev/sodic-5th-settlement.html</loc>
+<lastmod>2023-10-02T15:10:33+02:00</lastmod>
+<image:image>
+<image:loc>https://vision-fifth-settlement.pages.dev/media/posts/3/cdbcc7dddfbb19f039c2069bd0cd41a0bd0157c0_9c9dad42336ceef6e96a894f1d05975b1f1cc5b1-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://vision-fifth-settlement.pages.dev/media/posts/3/East-Town-Sodic-768x406-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://vision-fifth-settlement.pages.dev/water-way-fifth-settlement-compound.html</loc>
+<lastmod>2023-10-02T14:47:05+02:00</lastmod>
+<image:image>
+<image:loc>https://vision-fifth-settlement.pages.dev/media/posts/1/the-water-way-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://vision-fifth-settlement.pages.dev/media/posts/1/the-water-way-villa-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
